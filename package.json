@@ -16,7 +16,7 @@
     "adm-zip": "^0.4.7",
     "body-parser": "^1.17.2",
     "cors": "^2.8.3",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-zip": "^2.0.1",
     "expressjs": "^1.0.1",
     "inkscape": "^2.0.0",
